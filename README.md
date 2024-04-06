@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ellaiza! </h1>
+<h1>Hey there, I'm Ellaiza! </h1>
 
 <h2>👩‍💻 Data Analytics Projects</h2>
 
