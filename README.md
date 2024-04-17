@@ -1,7 +1,7 @@
 # Hey there, I'm Ellaiza!
 
 ## 👩‍💻 Data Analytics Projects
-+ **Data Structures and Algorithms Practice (AlgoExpert)**
++ [Global Online Sales Store](https://github.com/emcaboles/global-sales/tree/main)
 
 
 ## 🌱 Mini Projects
