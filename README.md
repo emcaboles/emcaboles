@@ -4,7 +4,7 @@
 + [Global Online Sales Store](https://github.com/emcaboles/global-sales/tree/main)
 
 ## 🌱 Mini Projects
-+ PwC Switzerland Power BI Virtual Internship
++ [PwC Switzerland Power BI Virtual Internship](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_uzEQFRk6HJq9Pv4RN_1711618438250_completion_certificate.pdf)
   + [Call Centre Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzkyNTE0MDUtYTg5OC00OGVkLWIxMTQtNTA4M2VkMjVlNGViIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
   + [Customer Churn Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODQ3YmNhMTYtN2Q3ZS00ZDEzLTg3YTAtYjJiMTVhM2Q5OTA1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
   + [Diversity and Inclusion Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGUzZDQ3ZTQtOTZkMS00ZTBlLTliZGYtNjNkZDhhOWRhMzU3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
