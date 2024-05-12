@@ -1,8 +1,9 @@
 # Hey there, I'm Ellaiza!
 
 ## 👩‍💻 Data Analytics Projects
-+ [Global Online Sales Store](https://github.com/emcaboles/global-sales/tree/main)
-
++ [Global Online Store Sales Analysis](https://github.com/emcaboles/global-sales/tree/main)
++ [Northern Lights Airlines Promotional Campaign and Customer Analysis](https://github.com/emcaboles/global-sales/tree/main)
+  
 ## 🌱 Mini Projects
 + [PwC Switzerland Power BI Virtual Internship](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_uzEQFRk6HJq9Pv4RN_1711618438250_completion_certificate.pdf)
   + [Call Centre Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzkyNTE0MDUtYTg5OC00OGVkLWIxMTQtNTA4M2VkMjVlNGViIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
