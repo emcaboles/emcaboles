@@ -1,8 +1,8 @@
 # Hey there, I'm Ellaiza!
 
 ## 👩‍💻 Data Analytics Projects
-+ [Global Online Store Sales Analysis](https://github.com/emcaboles/global-sales/tree/main)
-+ [Northern Lights Airlines Campaign Analysis](https://github.com/emcaboles/nla-flights/tree/main)
++ [Global Online Store Sales Analysis (SQL, Power BI)](https://github.com/emcaboles/global-sales/tree/main)
++ [Northern Lights Airlines Campaign Analysis (Python, SQL)](https://github.com/emcaboles/nla-flights/tree/main)
   
 ## 🌱 Mini Projects
 + [PwC Switzerland Power BI Virtual Internship](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_uzEQFRk6HJq9Pv4RN_1711618438250_completion_certificate.pdf)
